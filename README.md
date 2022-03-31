@@ -19,7 +19,7 @@
 
 ```json
 {
-  "Frontend": ["React", "Typescript", "Chakra-UI", "styled-components", "next", "React-native"],
+  "Frontend": ["React", "Next", "Typescript", "Chakra-UI", "styled-components", "React-native"],
   "Backend": ["Typescript", "Node.JS", "express", "Mongo", "PHP", "Wordpress"],
   "Blockchain": ["Solidity", "web3", "Truffle", "Hardhat", "ipfs@alpha"]
 }
