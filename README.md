@@ -12,7 +12,7 @@
     <br>
     <🌱 /> I'm also learning Solidity, Web3.js and ethers.js to build strong dApp (React).
     <br>
-    <🍺 /> Beside programming, I am interested in finance, especially in crypto. My favorite hobby is definitely watching Formula 1, it started when I was 6.
+    <🍺 /> Beside programming, I am interested in finance, especially in crypto.
 </p>
 
 
