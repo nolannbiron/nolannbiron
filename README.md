@@ -5,6 +5,8 @@
   passionate developer.
 </h1>
 
+![](https://komarev.com/ghpvc/?username=nolannbiron)
+
 ### Some words about me
 
 <p>
