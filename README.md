@@ -5,26 +5,24 @@
   passionate developer.
 </h1>
 
-![](https://komarev.com/ghpvc/?username=nolannbiron)
-
 ### Some words about me
 
 <p>
-    <🎯 />  I'm currently full-time dive into the blockchain & decentralized world, these possibilities seem absolutely incredible! 🤩
+    <👨🏻‍💻 /> I'm currently working at Avest as a Full-Stack engineer. Most of the time I'm a Front-End Developer. Currently exploring monorepos.
     <br>
-    <🌱 /> I'm also learning Solidity, Web3.js and ethers.js to build strong dApp (React).
+    <🎯 /> I've built many Web3 projects using Solidity, Web3.js and ethers.js.
     <br>
     <🍺 /> Beside programming, I am interested in finance, especially in crypto.
 </p>
 
 
-### Some technologies I like working with
+### A few technologies I like working with
 
 ```json
 {
-  "Frontend": ["React", "Next", "Typescript", "Chakra-UI", "styled-components", "React-native"],
-  "Backend": ["Typescript", "Node.JS", "express", "Mongo", "PHP", "Wordpress"],
-  "Blockchain": ["Solidity", "web3", "Truffle", "Hardhat", "ipfs@alpha"]
+  "Frontend": ["react", "nextJS", "typescript", "zod", "tailwind", "styled-components", "radix-ui", "react-native"],
+  "Backend": ["typescript", "nodeJS", "tRPC", "express", "fastify", "mongoDB", "prisma", "mongoose"],
+  "Blockchain": ["solidity", "web3", "truffle", "hardhat", "ethers.js", "web3-react", "ipfs@alpha"]
 }
 ```
 
