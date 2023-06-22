@@ -26,12 +26,13 @@
 }
 ```
 
+<!--
 <div align="center">
 
 ![nolannbiron's GitHub stats](https://github-readme-stats-nolannbiron.vercel.app/api?username=nolannbiron&show_icons=true&count_private=true&line_height=29&hide=contribs,prs)
 ![Top Langs GitHub stats](https://github-readme-stats-nolannbiron.vercel.app/api/top-langs/?username=nolannbiron&hide=C,asl,rich%20text%20format,makefile,shell,css&langs_count=8&layout=compact)
 
-</div>
+</div> -->
 
 <!-- #### Contact me on [Telegram](https://t.me/mo), we can chat in 🇫🇷  🇬🇧  🇪🇸 . -->
 
