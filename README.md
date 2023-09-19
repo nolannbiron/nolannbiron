@@ -8,9 +8,7 @@
 ### Some words about me
 
 <p>
-    <👨🏻‍💻 /> I'm currently working at Avest as a Full-Stack engineer. Most of the time I'm a Front-End Developer. Currently exploring monorepos.
-    <br>
-    <🎯 /> I've built many Web3 projects using Solidity, Web3.js and ethers.js.
+    <👨🏻‍💻 /> I'm currently working at Avest as a Full-Stack engineer. Most of the time I'm a Front-End Developer.
     <br>
     <🍺 /> Beside programming, I am interested in finance, especially in crypto.
 </p>
@@ -20,8 +18,8 @@
 
 ```json
 {
-  "Frontend": ["react", "nextJS", "typescript", "zod", "tailwind", "styled-components", "radix-ui", "react-native"],
-  "Backend": ["typescript", "nodeJS", "tRPC", "express", "fastify", "mongoDB", "prisma", "mongoose"],
+  "Frontend": ["react", "next", "typescript", "zod", "tailwind", "styled-components", "radix-ui", "react-native"],
+  "Backend": ["typescript", "nodeJS", "tRPC", "express", "fastify", "prisma", "mongoose", "postgres", "mongo"],
   "Blockchain": ["solidity", "web3", "truffle", "hardhat", "ethers.js", "web3-react", "ipfs@alpha"]
 }
 ```
