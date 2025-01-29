@@ -16,8 +16,8 @@
 
 ```json
 {
-  "Frontend": ["react", "next", "typescript", "zod", "tailwind", "styled-components", "radix-ui", "react-native"],
-  "Backend": ["typescript", "nodeJS", "express", "fastify", "prisma", "mongoose", "postgres", "mongo"],
+  "frontend": ["react", "next", "typescript", "zod", "tailwind", "styled-components", "radix-ui", "react-native"],
+  "backend": ["typescript", "nodeJS", "express", "fastify", "prisma", "mongoose", "postgres", "mongo"],
 }
 ```
 
