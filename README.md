@@ -8,7 +8,7 @@
 ### Some words about me
 
 <p>
-    <👨🏻‍💻 /> I'm currently working at GitBook as a Product engineer. Most of the time I'm a Front-End Developer.
+    <👨🏻‍💻 /> I'm currently working at GitBook as a Product engineer. Most of the time I'm a Front-End Engineer.
 </p>
 
 
