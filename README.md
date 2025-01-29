@@ -8,9 +8,7 @@
 ### Some words about me
 
 <p>
-    <👨🏻‍💻 /> I'm currently working at Avest as a Full-Stack engineer. Most of the time I'm a Front-End Developer.
-    <br>
-    <🍺 /> Beside programming, I am interested in finance, especially in crypto.
+    <👨🏻‍💻 /> I'm currently working at GitBook as a Product engineer. Most of the time I'm a Front-End Developer.
 </p>
 
 
@@ -19,8 +17,7 @@
 ```json
 {
   "Frontend": ["react", "next", "typescript", "zod", "tailwind", "styled-components", "radix-ui", "react-native"],
-  "Backend": ["typescript", "nodeJS", "tRPC", "express", "fastify", "prisma", "mongoose", "postgres", "mongo"],
-  "Blockchain": ["solidity", "web3", "truffle", "hardhat", "ethers.js", "web3-react", "ipfs@alpha"]
+  "Backend": ["typescript", "nodeJS", "express", "fastify", "prisma", "mongoose", "postgres", "mongo"],
 }
 ```
 
@@ -35,9 +32,7 @@
 <!-- #### Contact me on [Telegram](https://t.me/mo), we can chat in 🇫🇷  🇬🇧  🇪🇸 . -->
 
 <h3>
-  📫  You can also check out my <b>latest works</b> or <b>contact me</b> on
-  <br>
-  <a href="https://www.linkedin.com/in/nolann-biron/">Linkedin</a> or on my <a href="https://nolannbiron.com">Portfolio ― nolannbiron.com</a> 
+  📫  You can <b>contact me</b> on <a href="https://www.linkedin.com/in/nolann-biron/">Linkedin</a>
 </h3>
 
 ### ― See ya! 👋
